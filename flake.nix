@@ -21,8 +21,6 @@
           gcc
           gnumake
           cmake
-          sfml
-          libGLU
         ];
         configurePhase = ''
           mkdir -p bin
